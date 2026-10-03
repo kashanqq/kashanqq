@@ -41,5 +41,3 @@ The game is developed privately. The repo is a public window into it: devlogs an
 **Gamedev:** Unreal Engine 5, Blueprints, C++, OpenGL, GLSL, Blender
 
 **Backend:** Python, FastAPI, PostgreSQL, Docker
-
-**Environment:** Linux (Fedora), Git, CMake
